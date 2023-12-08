@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Michele, a python and C++ developer and ux designer felt in love with the open source way of life, 
+Hi, I'm Michele, a python and C++ developer and ux designer felt in love with the open source way of life
 
 ### Languages i know
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,bash,md)](https://skillicons.dev)
