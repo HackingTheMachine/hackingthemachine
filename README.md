@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hi, I'm Michele, a python and C++ developer felt in love with the open source way of life, 
+
+[![My skills] (https://skillicons.dev/icons?i=cpp,py,docker,neovim)] (https://skillicons.dev)
 <!--
 **HackingTheMachine/hackingthemachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
